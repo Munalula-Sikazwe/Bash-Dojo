@@ -2,6 +2,6 @@
 # Author : Munalula Sikazwe
 # Date Created : 16/jan/2022
 
-
-echo "Script is working!"
-exit 0
+name="Muna"
+game="chess"
+echo "Your name is $name $game"
