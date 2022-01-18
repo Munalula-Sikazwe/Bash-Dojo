@@ -4,4 +4,4 @@
 
 name="Muna"
 game="chess"
-echo "Your name is $name $game"
+echo "Your name is $name"
