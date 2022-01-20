@@ -7,3 +7,5 @@ case "$temperature" in
 esac
 
 done
+
+echo "$result"
